@@ -51,7 +51,7 @@ Now for creating the dataset, we use the Stanford Dog Dataset as our base. It co
 ![Image 6](samples/11.PNG)
 *Prompt: cute dog*
 
-![Image 7](samples/12PNG)
+![Image 7](samples/12.PNG)
 *Prompt: cyberpunk dog*
 
 ![Image 1](samples/6.PNG)
